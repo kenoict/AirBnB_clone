@@ -1,1 +1,1 @@
-The web static components.
+The web static components
